@@ -1,3 +1,5 @@
+#this code gets distance from hcsr04 sensor via gpio pins on raspberry pi 
+
 import time
 import RPi.GPIO as GPIO
 from time import sleep
